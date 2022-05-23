@@ -2,7 +2,7 @@
 > Generate visualizations of GitHub user and repository statistics using GitHub
 Actions.
 
-<a href="https://github.com/rahul-jha98/github-stats-transparent">
+<a href="https://github.com/leaisrevolution/github-stats-transparent">
 
 ![](https://raw.githubusercontent.com/leaisrevolution/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/leaisrevolution/github-stats-transparent/output/generated/languages.svg)
